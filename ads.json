@@ -1,1 +1,19 @@
-{}
+{
+    "silicon-agma-demo": {
+        "projectName": "silicon-agma-demo",
+        "description": "This is initial work flow demo",
+        "type": "community",
+        "author": "siliconravi",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/siliconravi/agama-silicon-demo",
+        "githubUri": "https://github.com/siliconravi/agama-silicon-demo",
+        "license": "apache-2.0",
+        "lastUpdated": "1702300474228",
+        "tags": [
+            "silicon",
+            "demo"
+        ],
+        "noDirectLaunch": [],
+        "configs": {}
+    }
+}
