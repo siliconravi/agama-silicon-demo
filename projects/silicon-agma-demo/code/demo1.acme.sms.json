@@ -67,7 +67,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
@@ -129,13 +130,14 @@
 					"maxIterationVariableName": "",
 					"logLevel": "error",
 					"assignCallbackResult": "",
-					"displayName": "",
+					"displayName": "Log Bob Attempt",
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16"
-				}
+				},
+				"skake": true
 			},
 			"selected": true,
 			"dragging": false,
@@ -211,7 +213,8 @@
 					"hasExtraData": false,
 					"configParams": "{}",
 					"nodeIcon": "material-symbols:line-end-square-rounded"
-				}
+				},
+				"skake": false
 			},
 			"selected": false,
 			"dragging": false,
