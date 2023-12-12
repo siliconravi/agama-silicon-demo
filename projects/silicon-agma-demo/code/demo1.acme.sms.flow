@@ -5,4 +5,11 @@ user = Call co.sample#searchAndAdd "uid" creds.username ""
 isBob = Call co.PersonChecker#isBob cred.username
 When isBob is true
      message = RRF "stepTwo.fith" creds
+     // Bob is trying to get in again!
+     Log "@error " Bob is trying to get in again!
+     // return false
+     it_sfbwg = { success: false, error: "Your error message here" }
+     Finish it_sfbwg
 Log "@error " login
+it_jptcu = { success: true, data: { userId: "as9233Qz" } }
+Finish it_jptcu
