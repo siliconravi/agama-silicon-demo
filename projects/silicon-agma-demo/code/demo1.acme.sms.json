@@ -60,7 +60,7 @@
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16"
 				},
-				"skake": true
+				"skake": false
 			},
 			"selected": true,
 			"positionAbsolute": {
@@ -618,8 +618,8 @@
 		}
 	],
 	"viewport": {
-		"x": 99.33893939070106,
-		"y": 219.604304309837,
-		"zoom": 0.5
+		"x": 108.40672726884054,
+		"y": 175.9918318384709,
+		"zoom": 0.6000000000000002
 	}
 }
