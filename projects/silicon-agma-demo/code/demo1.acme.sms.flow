@@ -5,5 +5,4 @@ user = Call co.sample#searchAndAdd "uid" creds.username ""
 isBob = Call co.PersonChecker#isBob cred.username
 When isBob is true
      message = RRF "stepTwo.fith" creds
-     Log "@ " __________
 Log "@ " __________
