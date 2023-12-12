@@ -116,7 +116,7 @@
 					"assignments": [],
 					"callType": "Call static method",
 					"arguments": [],
-					"logMessage": "Alert: Bob tried again",
+					"logMessage": "Bob tried again",
 					"templatePath": "",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
