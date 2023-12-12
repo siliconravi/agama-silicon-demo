@@ -6,10 +6,10 @@ isBob = Call co.PersonChecker#isBob cred.username
 When isBob is true
      message = RRF "stepTwo.fith" creds
      // Bob is trying to get in again!
-     Log "@error " Bob is trying to get in again!
+     Log "@error " false
      // return false
-     it_wjecu = { success: false, error: "Your error message here" }
-     Finish it_wjecu
+     it_rubbz = { success: false, error: "Your error message here" }
+     Finish it_rubbz
 Log "@error " login
-it_bemym = { success: true, data: { userId: "as9233Qz" } }
-Finish it_bemym
+it_iuevf = { success: true, data: { userId: "as9233Qz" } }
+Finish it_iuevf
