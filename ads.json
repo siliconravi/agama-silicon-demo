@@ -15,7 +15,8 @@
         ],
         "noDirectLaunch": [],
         "configs": {
-            "demo1.acme.sms": {}
+            "demo1.acme.sms": {},
+            "": {}
         },
         "name": "silicon-agma-demo"
     }
