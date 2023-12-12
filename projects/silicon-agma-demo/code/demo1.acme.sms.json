@@ -39,7 +39,7 @@
 					"assignments": [],
 					"callType": "Call static method",
 					"arguments": [],
-					"logMessage": "",
+					"logMessage": "login",
 					"templatePath": "",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
@@ -51,17 +51,18 @@
 					"javaMethodName": "",
 					"javaVariableName": "",
 					"maxIterationVariableName": "",
-					"logLevel": "",
+					"logLevel": "error",
 					"assignCallbackResult": "",
-					"displayName": "",
+					"displayName": "Log Username",
 					"nodeColor": "",
 					"exceptionVariableField": "",
 					"hasExtraData": false,
-					"configParams": "{}"
+					"configParams": "{}",
+					"nodeIcon": "octicon:log-16"
 				},
-				"skake": false
+				"skake": true
 			},
-			"selected": false,
+			"selected": true,
 			"positionAbsolute": {
 				"x": 1208.3904530584216,
 				"y": 47.50778905342111
