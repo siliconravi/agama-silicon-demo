@@ -116,7 +116,7 @@
 					"assignments": [],
 					"callType": "Call static method",
 					"arguments": [],
-					"logMessage": "Alert: Bob tried again!",
+					"logMessage": "Alert: Bob tried again",
 					"templatePath": "",
 					"maxIteration": "",
 					"idpAuthEndpoint": "",
@@ -137,9 +137,9 @@
 					"configParams": "{}",
 					"nodeIcon": "octicon:log-16"
 				},
-				"skake": false
+				"skake": true
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 1409.5074555909662,
@@ -216,7 +216,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 1408.3904530584216,
