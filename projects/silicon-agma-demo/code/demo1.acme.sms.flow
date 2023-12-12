@@ -8,8 +8,8 @@ When isBob is true
      // Bob is trying to get in again!
      Log "@error " Bob is trying to get in again!
      // return false
-     it_sfbwg = { success: false, error: "Your error message here" }
-     Finish it_sfbwg
+     it_wjecu = { success: false, error: "Your error message here" }
+     Finish it_wjecu
 Log "@error " login
-it_jptcu = { success: true, data: { userId: "as9233Qz" } }
-Finish it_jptcu
+it_bemym = { success: true, data: { userId: "as9233Qz" } }
+Finish it_bemym
